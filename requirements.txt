@@ -199,5 +199,7 @@ wtforms==2.3.1
     # via ctfd
 zope-event==5.1.1
     # via gevent
+psycopg2-binary==2.9.9
+
 zope-interface==7.2
     # via gevent
