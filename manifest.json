@@ -1,0 +1,24 @@
+{
+  "id": "/",
+  "name": "Penguin Protocol Academy",
+  "short_name": "Penguin",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#0e6b2e",
+  "icons": [
+    {
+      "src": "https://cloudflare.com",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cloudflare.com",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
